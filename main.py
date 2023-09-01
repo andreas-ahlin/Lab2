@@ -34,7 +34,7 @@ def main():
     for item in sorterad_lek:
         kort_sträng = kort_sträng + str(item) + ' ' 
     print(kort_sträng)
-
+#Whaddaup dude
 
 if __name__ == "__main__":
     main()
